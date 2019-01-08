@@ -1,0 +1,21 @@
+start
+
+def open_file(file_name,mode):
+try:
+    open file and asign it to a variable.
+except IOError as e:
+    display error text (print(e))
+    wait for input
+    close program
+    end
+else:
+       return the open file
+       end
+
+
+start
+def next_line(the_file)
+      read the next line in the file, to the line variable
+      replace / with \n
+      return line
+      end

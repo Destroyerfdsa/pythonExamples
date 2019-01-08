@@ -1,0 +1,25 @@
+title of the quiz must be first line
+category
+question must be on one line anywhere /you need a new line in the text you will insert a /
+1) answer option 1
+2) answer option 2
+3) answer option 3
+4) answer option 4
+correct answer to question be sure it matches how the user will respond
+explaination why it is correct
+category
+question must be on one line anywhere you need a new line in the text you will insert a /
+1) answer option 1
+2) answer option 2
+3) answer option 3
+4) answer option 4
+correct answer to question be sure it matches how the user will respond
+explaination why it is correct
+category
+question must be on one line anywhere you need a new line in the text you will insert a /
+1) answer option 1
+2) answer option 2
+3) answer option 3
+4) answer option 4
+correct answer to question be sure it matches how the user will respond
+explaination why it is correct

@@ -1,0 +1,80 @@
+Python Trivia
+Loops
+1.) A loop that continues until it reaches a certain parameter that breaks it?
+1 while
+2 for
+3 if
+4 when
+1 while
+A while loop continues to loop until it has reached the condition or can loop forever.
+Variable
+2.) Which is a an example of a variable?
+1 print()
+2 if x == 3:
+3 x = 3
+4 pass
+3 x = 3
+x = 3 is a variable because x is being assigned to a number.
+Locations in a string
+3.) A position or location in a string that can be separated?
+1 index
+2 slice
+3 test
+4 list
+1 index
+indexing is the only correct one.
+Parts of Code
+4.) A piece of code used to organize parts of a program and can be rerun.
+1 loop
+2 function
+3 import
+4 del
+2 function
+when creating a function you have to use def.
+Loop
+5.) A type of loop that triggers at intervals with set iterations?
+1 while
+2 if
+3 for
+4 do-while
+3 for
+All of the other answers would result in an error.
+Programming
+6.) Computer programming language that starts with p?
+1 Python
+2 do-while
+3 Java
+4 if
+1 Python
+Python is the only language in the set of answers that starts with the letter p.
+Logic
+7.) A split in the code that chooses a direction based on a variable, or logic is?
+1 while
+2 print()
+3 if
+4 open
+3 if
+An if statement chooses a direction based on logical statements.
+Program
+8.) What is a program used to facilitate code production?
+1 Coder
+2 Program
+3 IDE
+4 Syntax error
+An IDE is used in code production.
+Function
+9.) Which is a function used to set a value from a user?
+1 print()
+2 iterate
+3 try
+4 input()
+4 input()
+To get input from a user the input function is used.
+Function
+10.) Which is a standard function used to display variables or strings?
+1 output()
+2 show()
+3 print()
+4 display()
+3 print()
+To display variables or strings to the user, you must use the print() function.
